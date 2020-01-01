@@ -1,0 +1,9 @@
+// Before you will add the babel-loader to the webpack config file, you need to configure babel. Babel has a config file called .babelrc.
+
+// Babel uses a plugin system so when you want to use new features you must install a new plugin dependency. The dependency you must install to be able to transpile React to JSX is called @babel/preset-react
+{
+  "presets": [
+    "@babel/preset-env", // This enables babel to transpile the latest version of JS.
+    "@babel/preset-react" // Now babel will be able to transpile JSX!
+  ]
+}
