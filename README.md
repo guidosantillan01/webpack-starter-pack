@@ -1,7 +1,7 @@
 ## Basic Webpack React configuration
 
-**https://createapp.dev/webpack**
-https://webpack.js.org/guides/getting-started/
+- **https://createapp.dev/webpack**
+- https://webpack.js.org/guides/getting-started/
 
 ---
 
